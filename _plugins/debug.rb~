@@ -11,7 +11,7 @@ module Jekyll
   # the output is taken for HTML tags and hidden from view.
   #
 	#This is giving me  lot of issues!
-  class Post
+  class Posts
     def inspect
       "#Jekyll:Post @id=#{self.id.inspect}"
     end
