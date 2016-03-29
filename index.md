@@ -11,14 +11,14 @@ tagline:
   <div class="jcarousel-wrapper">
       <div class="jcarousel">
           <ul>
-            <li><img src="assets/images/carousel/first.jpg"/></li>
-            <li><img src="assets/images/carousel/second.jpg"/></li>
-            <li><img src="assets/images/carousel/third.jpg"/></li>
-            <li><img src="assets/images/carousel/fourth.jpg"/></li>
-            <li><img src="assets/images/carousel/fifth.jpg"/></li>
-            <li><img src="assets/images/carousel/sixth.jpg"/></li>
-            <li><img src="assets/images/carousel/seventh.jpg"/></li>
-            <li><img src="assets/images/carousel/eighth.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/first.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/second.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/third.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/fourth.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/fifth.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/sixth.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/seventh.jpg"/></li>
+            <li><img src="assets/images/carousel/Spring2016Pictures/eigth.jpg"/></li>
             
           </ul>
       </div>
@@ -40,12 +40,18 @@ Learn more [about us](/about.html) and become a [member](/membership.html), or f
 
 ###What Goes On In IEEE?
 
-Here are some of our latest happenings and postings. Be sure to keep up with our newsletter and our [Facebook page](https://www.facebook.com/gtieee?fref=photo) to keep up to date with all of our events. Our [archives](/archives) pages has more of what you're looking for.
+Here are some of our latest happenings and postings. Be sure to keep up with our newsletter and our Facebook page to keep up to date with all of our events. Our [archives](/archives) pages has more of what you're looking for.
 
 <ul class="posts">
   {% for post in site.posts %}
-    {% if forloop.index <= 3 %}
+    {% if forloop.index <= 1 %}
     <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
+
+###Join our Mailing List!
+
+The Georgia Tech IEEE student chapter is very active. We usually have at least one event every week ranging from Proffesor Talks to social events and company info sessions. So make sure to join our weekly [mailing list](http://gt-ieee.us5.list-manage.com/subscribe?u=a42ec30139b77172f44401aa5&id=a4ddfb6da0) in order to keep up with all things Georgia Tech IEEE!
+
+<button type="button" onclick="location.href='https://www.facebook.com/gtieee/';" class="btn btn-primary">Check out our Facebook page!</button>

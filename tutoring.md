@@ -6,7 +6,7 @@ group: navigation
 {% include JB/setup %}
 ###Classes driving you nuts? We’ve gotcha covered!
 
-Here is the tutoring schedule for Fall 2014: <br/>
+Here is the tutoring schedule for Spring 2016: <br/>
 __All tutoring will take place in the Fish Bowl (_Van Leer W100_)__
 
 
@@ -22,64 +22,64 @@ __All tutoring will take place in the Fish Bowl (_Van Leer W100_)__
     <tbody>
     	<tr>
 	    	<td>2020</td>
-			<td>Tues 12 - 2pm <br/>Wed 12 - 2pm</td>
-			<td>Shashank <br/>Daniel</td>
+			<td>Monday 3 - 5pm <br/>Monday 3 - 5pm</td>
+			<td>Muhammad Doukmak <br/>Nahom Solomon</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2026</td>
-			<td>Tues 12 - 2pm <br/>Wed 4 - 6pm <br/>Thurs 3 - 5pm</td>
-			<td>Mohit <br/>Ashwin <br/>Huijie</td>
+			<td>Monday 12 - 2pm <br/>Friday 2 - 4pm <br/>Tuesday 7 - 9am</td>
+			<td>Siddarth Mehta <br/> Ruo Zhang <br/> Wesley Schon</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2035</td>
-			<td>Thurs 1 - 3pm <br/>Fri 3 - 5pm</td>
-			<td>Harsha <br/>Ikenna</td>
+			<td>Monday 2 - 3pm <br/>Thursday 12 - 1pm</td>
+			<td> Liuxizi Xu <br/> Liuxizi Xu </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2036</td>
-			<td>Tues 3 - 5pm <br/>Wed 3:30 - 5:30pm <br/>Fri 2 - 4pm</td>
-			<td>Jheewon <br/>John <br/>Chris</td>
+			<td> Monday 2 - 3pm<br/> Thursday 12 - 1pm </td>
+			<td> Liuxizi Xu <br/> Liuxizi Xu and Stephen Wilkins </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>2040</td>
-			<td>Tues 12 - 2pm <br/>Tues 2 - 4pm <br/>Wed 2 - 4pm <br/>Thurs 1 - 3pm</td>
-			<td>Jean Du <br/>Arjun <br/>Augustine <br/>John Noe</td>
+			<td>Monday 9 - 11am <br/> Tuesday 9:30 - 11:30am </td>
+			<td> Seong Ho Yeon <br/> Yuhao Lin </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3020</td>
-			<td>Mon 1:30 - 3:30pm <br/>Thurs 1 - 3pm</td>
-			<td>Jay <br/>Harsha</td>
+			<td>Tuesday 1:30 - 3:30pm <br/> Wednesday 3 - 5pm </td>
+			<td> Yushan Cai <br/> Akshay Shukla </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3025</td>
-			<td>Mon 4 - 6pm <br/>Fri 2 - 4pm</td>
-			<td>Steven <br/>Chris</td>
+			<td> Friday 3 - 5pm <br/> Thursday 1 - 3 pm</td>
+			<td> Agustin Wu <br/> Qian Shao</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3030</td>
-			<td>Mon 3 - 5pm</td>
-			<td>Alejandro</td>
+			<td>Monday 11am - 1pm <br/> Tuesday 3 - 5 pm</td>
+			<td>Kenneth Swanson <br/> Shivam Agarwal </td>
 		</tr>
     </tbody>
 
@@ -87,48 +87,52 @@ __All tutoring will take place in the Fish Bowl (_Van Leer W100_)__
     <tbody>
     	<tr>
 	    	<td>3040</td>
-			<td>Fri 1 - 3pm</td>
-			<td>Jay</td>
-		</tr>
-    </tbody>
-
-    <tbody>
-    	<tr>
-	    	<td>3040 / 3043</td>
-			<td>Mon 6 - 8pm <br/>Thurs 12 - 2pm</td>
-			<td>Stephen <br/>Tianhao</td>
+			<td>Thursday 4:30 - 6:30 pm <br/> Wensday 4 - 6 pm </td>
+			<td>Taylor Eyre <br/> Huijie Pan</td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3043</td>
-			<td>Tues 1:30 - 3:30pm</td>
-			<td>Jonathan</td>
+			<td>Thursday 12 - 1pm <br/>Thurs 3 - 5pm</td>
+			<td>Hyeon Ki Jeong <br/> Ashwin Subramanian </td>
+		</tr>
+    </tbody>
+
+
+    <tbody>
+    	<tr>
+	    	<td>3056</td>
+			<td>Monday 12 - 2pm </td>
+			<td> Jane Erickson </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
-	    	<td>3056</td>
-			<td>Mon 3 - 5pm <br/> Wed 3 - 5pm</td>
-			<td>Sidak <br/>Sidak</td>
+	    	<td>3072</td>
+			<td>Thursday 3:10 - 5:10pm </td>
+			<td> Gyu Cheol Lim </td>
 		</tr>
     </tbody>
 
     <tbody>
     	<tr>
 	    	<td>3084</td>
-			<td>Tues 1:30 - 3:30pm <br/> Thurs 1 - 3pm</td>
-			<td>Jonathan <br/> John Noe</td>
+			<td>Wednesday 9:00 - 11:00am </td>
+			<td> Abdoulie Njie</td>
 		</tr>
     </tbody>
 
 
 </table>
 <br/>
-Feel free to contact our Tutoring Chairs for any questions or suggestions:
+Checkout our [website](http://www.ecetutoring.gatech.edu/) for more information!
 
-_Ramprasath Rajagopal & Chris Allen_ <br/>
+
+And feel free to contact our Tutoring Chairs for any questions or suggestions:
+
+Huijie Pan & Ganapathy Hari Narayan <br/>
 <tutoring@ieee.gatech.edu> <br/>
-<rrajagopal6@gatech.edu> & <cjallen@gatech.edu> <br/>
+<ganapathy.hari.narayan@gatech.edu> & <hpan33@gatech.edu> <br/>

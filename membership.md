@@ -17,7 +17,8 @@ Here's you can get started:
   + Complete the _Additional Information_ section and click _Proceed to Checkout_ at the very bottom
   + Enter your billing information here. At the bottom of the page, click _Printable order version(PDF)_ to get your __membership ID__. You'll need this ID for the newsletter, so be sure to write it down. Lastly, finish with _Complete Membership Order & Checkout_
 
-2. Join our Newsletter [here](http://gt-ieee.us5.list-manage.com/subscribe?u=a42ec30139b77172f44401aa5&id=a4ddfb6da0) and be sure to enter your __membership ID__ from __Step 1__ where prompted
+2. Join our [Newsletter](http://gt-ieee.us5.list-manage.com/subscribe?u=a42ec30139b77172f44401aa5&id=a4ddfb6da0) and be sure to enter your __membership ID__ from __Step 1__ where prompted!
+
 
 ###Get Started
 

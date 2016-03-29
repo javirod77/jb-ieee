@@ -21,4 +21,4 @@ _Phong Nguyen_ <br/>
 <br/>
 __Meetings__ <br/>
 Thursday  7:00 pm <br/>
-Van Leer 445C <br/>
+Van Leer 456C <br/>

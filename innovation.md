@@ -16,11 +16,11 @@ Students of ALL MAJORS and ALL EXPERIENCE LEVELS are welcome to join us and cont
 
 Feel free to contact our Team Captains for suggestions and questions:
 
-_Harsha Nori, Madeleyne Vaca, & Max Bires_ <br/>
+Madeleyne Vaca & Max Bires <br/>
 <innovation@ieee.gatech.edu> <br/>
-<harsha@gatech.edu>, <mvaca3@gatech.edu>, & <jbires6@gatech.edu> <br/>
+<mvaca3@gatech.edu>, & <jbires6@gatech.edu> <br/>
 
 <br/>
 __Meetings__ <br/>
-Sundays 1:00 pm <br/>
+Mondays 7:00 pm <br/>
 Van Leer C341 <br/>
